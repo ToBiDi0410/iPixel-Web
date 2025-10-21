@@ -1,0 +1,21 @@
+{
+  "name": "ipixel-web",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@parcel/transformer-vue": "^2.16.0",
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "vue": "^3.5.22"
+  }
+}
